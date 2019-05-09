@@ -1,0 +1,6 @@
+1;1;FourAlarmFire;Delivering;10;147;16.0;2019-05-08 15:54:11
+2;1;FourAlarmFire;Delivering;13;158;29.0;2019-05-09 13:10:36
+3;1;FourAlarmFire;Delivering;6;536;13.5;2019-05-09 16:39:30
+4;3;111;Delivering;9;109;18.0;2019-05-09 16:51:53
+5;8;Guojiawei;Preparing;16;707;8.0;2019-05-09 17:09:10
+6;8;Guojiawei;Preparing;16;813;23.5;2019-05-09 17:10:25

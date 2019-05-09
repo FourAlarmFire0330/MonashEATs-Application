@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=registerUser
+comment0.target=void\ writeToRegisteredUsers(User)
+comment1.params=loginUser
+comment1.target=User\ readFromRegisteredUser(User)
+comment2.params=
+comment2.target=java.util.ArrayList\ readFromRestaurants()
+comment3.params=restaurant
+comment3.target=void\ readFromMenus(java.util.ArrayList)
+comment4.params=loginUser\ cart\ status\ remainTime\ distance\ orderGenerateTime
+comment4.target=void\ writeToOrders(User,\ Cart,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment5.params=loginUser
+comment5.target=User\ readFromOrders(User)
+comment6.params=fileName
+comment6.target=java.lang.String\ getTheLastID(java.lang.String)
+numComments=7

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=mID\ mName\ mIngredients\ mPrice\ rID
+comment0.target=Menu(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getmID()
+comment10.params=rID
+comment10.target=void\ setrID(java.lang.String)
+comment2.params=mID
+comment2.target=void\ setmID(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getmName()
+comment4.params=mName
+comment4.target=void\ setmName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getmIngredients()
+comment6.params=mIngredients
+comment6.target=void\ setmIngredients(java.lang.String)
+comment7.params=
+comment7.target=double\ getmPrice()
+comment8.params=mPrice
+comment8.target=void\ setmPrice(double)
+comment9.params=
+comment9.target=java.lang.String\ getrID()
+numComments=11

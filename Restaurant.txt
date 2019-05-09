@@ -1,0 +1,4 @@
+1;Herbs Woodfired Pizza;Pizza, noodles and rice supplied;12 moodie st, Caufield East, VIC 3145;12.0;2
+2;Nando's;Chips, Fried Chicken, Salad and Main supplied;372 Glen Huntly Rd, Elsternwick, VIC 3185;44.5;4
+3;Little Sichuan;Some spicy food, rice and meal deal;38 Ringwood st, Caufield South, VIC 3163;7.0;5
+4;Derby Thai Caufield;Here we provide Appetisers, Salads, Soups, Curries and Stir Fry;4 Derby Rd, Caufield East, VIC 3145;33.0;1

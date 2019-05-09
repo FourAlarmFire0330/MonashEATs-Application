@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cart()
+comment1.params=
+comment1.target=User\ getUser()
+comment2.params=loginUser
+comment2.target=void\ setUser(User)
+comment3.params=
+comment3.target=java.util.ArrayList\ getMenus()
+comment4.params=menus
+comment4.target=void\ setMenus(java.util.ArrayList)
+comment5.params=
+comment5.target=double\ getTotalPrice()
+comment6.params=totalPrice
+comment6.target=void\ setTotalPrice(double)
+numComments=7
